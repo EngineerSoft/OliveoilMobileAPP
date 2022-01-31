@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#699734</color>
+    <color name="colorPrimaryDark">#577C2C</color>
+    <color name="colorAccent">#A0AE10</color>
+    <color name="Blue">#4674b8</color>
+    <color name="darkBlue">#2D48C5</color>
+    <color name="lightBlue">#00acec</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="darkblue">#23283A</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="red">#BE2929</color>
+    <color name="orange">#B9FF4E00</color>
+    <color name="darkGray">#7F8C8D</color>
+    <color name="secondary_text">#bdbdbd</color>
+    <color name="btnHighlight">#898787</color>
+    <color name="login_form_details">#ccffffff</color>
+    <color name="login_form_details_light">#1affffff</color>
+    <color name="login_form_details_medium">#66ffffff</color>
+    <color name="notification_read_color">#A5C0EF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blackGrey">#6f6f6f</color>
+    <color name="black">#000000</color>
+    <color name="green">#1BB161</color>
+    <color name="lightblue">#FF2196F3</color>
+    <color name="dummblue">#0099cc</color>
+
+</resources>

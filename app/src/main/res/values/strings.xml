@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Analyseur Huile d"'"Olive</string>
+    <string name="title_activity_splashscreen">Analyseur Huile d"'"Olive</string>
+
+    <string name="scan_btn_name">Rechercher le capteur</string>
+    <string name="active_btn_name">Activer Bluetooth</string>
+    <string name="deactivate_btn_name">Désactiver Bluetooth</string>
+    <string name="associate_btn_name">Associer</string>
+    <string name="scanner_btn_name">Lancer le Scan</string>
+    <string name="stop_btn_name">Arrêter le Scan</string>
+    <string name="calibrate_btn_name">Lancer le Calibrage</string>
+    <string name="main_title">Veuillez accorder les autorisations suivantes pour se connecter au Analyseur</string>
+    <string name="card1_title">Autorisation du Bluetooth</string>
+    <string name="card2_title">Autorisation de Position</string>
+    <string name="card3_title">Choisissez l"'"action à procéder</string>
+    <string name="card_active">Active</string>
+    <string name="config_incompl">Configuration incomplète</string>
+    <string name="config_compl">Configuration complète</string>
+    <string name="active_btn">Activer</string>
+    <string name="proceed_btn">Procéder</string>
+    <string name="imprim_btn">Imprimer le ticket</string>
+    <string name="text_view_progress">Connexion au Analyseur est en cours...</string>
+    <string name="text_view_progress_calibr">Calibration en cours...ce traitement peut prendre jusqu"'"à 20 secondes</string>
+    <string name="text_view_progress_scan">Scan en cours...ce traitement peut prendre jusqu"'"à 12 secondes</string>
+
+
+    <string-array name="traitements">
+        <item>Acidité</item>
+        <item>Mixing</item>
+    </string-array>
+    <string name="uknwn_device">Dispositif inconnu</string>
+</resources>
